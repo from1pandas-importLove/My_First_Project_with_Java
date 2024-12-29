@@ -10,6 +10,7 @@ public class Main {
 
         System.out.println("Earned amount:");
         System.out.println("Bubblegum: $202");
+
         System.out.println("Toffee: $118");
         System.out.println("Ice cream: $2250");
         System.out.println("Milk chocolate: $1680");
